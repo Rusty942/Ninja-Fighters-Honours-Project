@@ -1,0 +1,29 @@
+{
+    "EnemyBehaviorHard": {
+        "checkpoints": [
+            {
+                "steps": 1280,
+                "file_path": "results\\Impossible3\\EnemyBehaviorHard\\EnemyBehaviorHard-1280.onnx",
+                "reward": null,
+                "creation_time": 1713797574.182518,
+                "auxillary_file_paths": [
+                    "results\\Impossible3\\EnemyBehaviorHard\\EnemyBehaviorHard-1280.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1280,
+            "file_path": "results\\Impossible3\\EnemyBehaviorHard.onnx",
+            "reward": null,
+            "creation_time": 1713797574.182518,
+            "auxillary_file_paths": [
+                "results\\Impossible3\\EnemyBehaviorHard\\EnemyBehaviorHard-1280.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

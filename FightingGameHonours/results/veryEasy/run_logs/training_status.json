@@ -1,0 +1,29 @@
+{
+    "EnemyBehavior": {
+        "checkpoints": [
+            {
+                "steps": 128,
+                "file_path": "results\\veryEasy\\EnemyBehavior\\EnemyBehavior-128.onnx",
+                "reward": null,
+                "creation_time": 1713785662.1236727,
+                "auxillary_file_paths": [
+                    "results\\veryEasy\\EnemyBehavior\\EnemyBehavior-128.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 128,
+            "file_path": "results\\veryEasy\\EnemyBehavior.onnx",
+            "reward": null,
+            "creation_time": 1713785662.1236727,
+            "auxillary_file_paths": [
+                "results\\veryEasy\\EnemyBehavior\\EnemyBehavior-128.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

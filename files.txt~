@@ -1,0 +1,70 @@
+FightingGameHonours/Assets/Game Assets/Game Assets/Background/Background.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Enemy/Block/EnemyBlockSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Enemy/Crouch/EnemyCrouchSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Enemy/Fireball/EnemyFireballSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Enemy/Idle/EnemyIdleSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Enemy/Kick/EnemyKickSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Enemy/Punch/EnemyPunchSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Enemy/Walking/Enemy SpriteSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Block/PlayerBlockSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Crouch/PlayerCrouchSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Fireball/PlayerFireballSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Idle/PlayerIdleSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Kick/PlayerKickSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Punch/PlayerPunchSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Walking/Player F1.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Walking/Player F2.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Walking/Player F3.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Characters/Player/Walking/Player Spritesheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Items/EnemyFireball/Enemy Fireball.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Items/EnemyFireball/EnemyFireballDissipate.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Items/PlayerFireball/PlayerFireballDissipate.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Items/PlayerFireball/PlayerFireballSheet.png
+FightingGameHonours/Assets/Game Assets/Game Assets/Terrain/Floor.png
+FightingGameHonours/Assets/Game Assets/Game Assets/UI/Enemy Fire UI.png
+FightingGameHonours/Assets/Game Assets/Game Assets/UI/EnemyHead.png
+FightingGameHonours/Assets/Game Assets/Game Assets/UI/Health & Stamina/HelathBorder.png
+FightingGameHonours/Assets/Game Assets/Game Assets/UI/Player Fire UI.png
+FightingGameHonours/Assets/Game Assets/Game Assets/UI/PlayerHead.png
+FightingGameHonours/Assets/Main Menu/GameTitle.png
+FightingGameHonours/Assets/Sounds/Music/Fight Music.wav
+FightingGameHonours/Assets/Sounds/Music/Menu.wav
+FightingGameHonours/Assets/Sounds/Sound Effects/DeathSound.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/Fireball.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/FireballSizzle.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/Fyah.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/Kick.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/Punch.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/blue win.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/fireballAttack.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/fireballBlock.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/normalAttack.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/normalBlock.mp3
+FightingGameHonours/Assets/Sounds/Sound Effects/red win.mp3
+FightingGameHonours/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+FightingGameHonours/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+FightingGameHonours/Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+FightingGameHonours/Assets/TextMesh Pro/Sprites/EmojiOne.png

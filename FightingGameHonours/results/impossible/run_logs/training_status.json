@@ -1,0 +1,29 @@
+{
+    "EnemyBehavior": {
+        "checkpoints": [
+            {
+                "steps": 25964,
+                "file_path": "results\\impossible\\EnemyBehavior\\EnemyBehavior-25964.onnx",
+                "reward": -8.818181818181818,
+                "creation_time": 1713781868.9773426,
+                "auxillary_file_paths": [
+                    "results\\impossible\\EnemyBehavior\\EnemyBehavior-25964.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25964,
+            "file_path": "results\\impossible\\EnemyBehavior.onnx",
+            "reward": -8.818181818181818,
+            "creation_time": 1713781868.9773426,
+            "auxillary_file_paths": [
+                "results\\impossible\\EnemyBehavior\\EnemyBehavior-25964.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

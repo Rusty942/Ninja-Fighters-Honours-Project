@@ -1,0 +1,29 @@
+{
+    "EnemyBehavior": {
+        "checkpoints": [
+            {
+                "steps": 10262,
+                "file_path": "results\\ppo\\EnemyBehavior\\EnemyBehavior-10262.onnx",
+                "reward": null,
+                "creation_time": 1713734797.7480838,
+                "auxillary_file_paths": [
+                    "results\\ppo\\EnemyBehavior\\EnemyBehavior-10262.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10262,
+            "file_path": "results\\ppo\\EnemyBehavior.onnx",
+            "reward": null,
+            "creation_time": 1713734797.7480838,
+            "auxillary_file_paths": [
+                "results\\ppo\\EnemyBehavior\\EnemyBehavior-10262.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
